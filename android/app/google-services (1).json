@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1090193814415",
+    "project_id": "fir-flutter-9df26",
+    "storage_bucket": "fir-flutter-9df26.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090193814415:android:7f5983ce263460ed84d1fa",
+        "android_client_info": {
+          "package_name": "com.example.buzon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlgi1qE4exaTblFms5PySo9-Amyhjgtvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090193814415:android:b673f834723d639684d1fa",
+        "android_client_info": {
+          "package_name": "com.example.campusshare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlgi1qE4exaTblFms5PySo9-Amyhjgtvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
